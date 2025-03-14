@@ -17,7 +17,7 @@ export default function PortfolioPage() {
             <ViewTransition name="profile">
               <div className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-white shadow-lg">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/muyleanging.jpg-ZujCefrwCNoCCmxdrcGUoMmjcXv71S.jpeg"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSSS81DNgGAwRQrPZ_DcPeYVNQb6_cN-0Vg&s"
                   alt="Muyleang Ing"
                   fill
                   className="object-cover"

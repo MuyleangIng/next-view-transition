@@ -16,7 +16,7 @@ export default function Page() {
           <ViewTransition name="profile">
             <div className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-lg">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/muyleanging.jpg-ZujCefrwCNoCCmxdrcGUoMmjcXv71S.jpeg"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSSS81DNgGAwRQrPZ_DcPeYVNQb6_cN-0Vg&s"
                 alt="Muyleang Ing"
                 fill
                 className="object-cover"
@@ -48,7 +48,7 @@ export default function Page() {
             </ViewTransition>
 
             <p className="text-muted-foreground">
-              Exploring the intersection of DevOps, AI, and Full-Stack Development
+            If you ain't doing it, don't say you can't—just do it or keep quiet.
             </p>
           </div>
         </div>
